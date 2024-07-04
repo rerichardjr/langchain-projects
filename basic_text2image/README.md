@@ -9,4 +9,4 @@ Save as filename (.jpg): cabin
 
 Writes out cabin.jpg
 
-![cabin](basic_text2image/cabin.jpg)
+![cabin](cabin.jpg)
