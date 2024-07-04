@@ -7,6 +7,6 @@ Enter text2image prompt: remote cabin in the woods near a lake
 Save as filename (.jpg): cabin
 ```
 
-Writes out cabin.jpg
+Writes image data to cabin.jpg
 
 ![cabin](cabin.jpg)
