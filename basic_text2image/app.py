@@ -14,7 +14,7 @@ def text2image(message):
     return response.content
 
 prompt = input("Enter text2image prompt: ")
-filename = input("Save as filename (.jpg):" )
+filename = input("Save as filename (.jpg): " )
 
 image = text2image({
 	"inputs": prompt,
